@@ -1,2 +1,2 @@
-# algorithm_java
+# algorithm
 Algorithms by Robert Sedgewick
